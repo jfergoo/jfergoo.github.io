@@ -15,4 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a mathematician interested in theoretical and computational models of natural phenomena. Currently I am a postdoc based in the [Vogels Lab](https://ista.ac.at/en/research/vogels-group/) at the [Institute of Science and Technology Austria](https://ista.ac.at). Thanks for visiting my website!
+I am a mathematician working on theoretical and computational models of natural phenomena.
+
+Currently I am a postdoctoral scientist based in the [Vogels Lab](https://ista.ac.at/en/research/vogels-group/) at the [Institute of Science and Technology Austria](https://ista.ac.at). 
+
+Thanks for visiting my website!
