@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-04-16 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We have a poster at [FENS Forum 2024](https://fensforum.org/) in Vienna: "Hard to digest: the challenges of modelling the dynamics of the C. elegans pharynx" with Tim Vogels.
