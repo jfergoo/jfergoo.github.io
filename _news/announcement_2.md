@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have a poster at [EGU 2024](https://www.egu24.eu/) in Vienna: "Modelling the complex response of debris covered glaciers on variations in climate and debris input" with Florian Hardmeier and Andreas Vieli.
+We have a poster at [EGU 2024](https://www.egu24.eu/) in Vienna: [Modelling the complex response of debris covered glaciers on variations in climate and debris input](https://doi.org/10.5194/egusphere-egu24-4943) with Florian Hardmeier and Andreas Vieli.
