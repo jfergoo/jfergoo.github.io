@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have a poster at [Cosyne 2025](https://www.cosyne.org/) in Montreal: "Synaptic modulation outperforms somatic modulation for rapid adaptation in cortical nets" with Ivan Bluygin, Nicoleta Condruz, and Tim Vogels.
+We have a poster at [Cosyne 2025](https://www.cosyne.org/): "Synaptic modulation outperforms somatic modulation for rapid adaptation in cortical nets" with Ivan Bluygin, Nicoleta Condruz, and Tim Vogels.
