@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have a poster at [FENS Forum 2024](https://fensforum.org/) in Vienna: "Hard to digest: the challenges of modelling the dynamics of the C. elegans pharynx" with Tim Vogels.
+We have a poster at [FENS Forum 2024](https://fensforum.org/): "Hard to digest: the challenges of modelling the dynamics of the C. elegans pharynx" with Tim Vogels.
