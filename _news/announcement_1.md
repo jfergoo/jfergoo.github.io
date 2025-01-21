@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have a poster at [Cosyne 2023](https://www.cosyne.org) in Montreal: [Synaptic low-rank modulation facilitates adaptation in cortical networks](https://doi.org/10.57736/e9c1-4e05) with Ivan Bulygin and Tim Vogels.
+We have a poster at [Cosyne 2023](https://www.cosyne.org): [Synaptic low-rank modulation facilitates adaptation in cortical networks](https://doi.org/10.57736/e9c1-4e05) with Ivan Bulygin and Tim Vogels.
