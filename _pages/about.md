@@ -19,11 +19,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I am an applied mathematician working on theoretical and computational models of natural phenomena. I develop models from first principles and also use dynamical systems, network theory, and numerical simulations to understand complex systems such as geophysical processes and brain computations.
 
-I obtained my PhD at the University of Zürich, under the supervision of Andreas Vieli, where I developed mathematical models of glaciers. I then moved to the Institute of Science and Technology Austria (ISTA), where I worked as postdoctoral researcher in theoretical and computational neuroscience. During this time, I developed models to investigate how both network topology and short-term perturbations affect the dynamics of complex systems. Recently, I was a visiting scientist at the Institute of Artificial Intelligence of the Medical University of Vienna and a visiting lecturer at the African Institute for Mathematical Sciences (AIMS), where I co-taught a graduate course on Neuro AI.
+I obtained my PhD at the [University of Zurich](https://www.uzh.ch/), under the supervision of Andreas Vieli, where I developed mathematical models of glaciers. I then moved to the [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/), where I worked as postdoctoral researcher in theoretical and computational neuroscience. During this time, I developed models to investigate how both network topology and short-term brain-wide signalling affect neuronal dynamics. Recently, I was a visiting scientist at the Institute of Artificial Intelligence of the [Medical University of Vienna](https://www.meduniwien.ac.at/) and a visiting lecturer at the [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.za), where I co-taught a graduate course on Neuro AI.
