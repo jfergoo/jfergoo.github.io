@@ -6,7 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: James
 middle_name: C.
 last_name: Ferguson
-email: jamcferguson (at) gmail (dot) com
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -59,7 +58,7 @@ footer_fixed: false
 search_enabled: false
 socials_in_search: false
 posts_in_search: false
-bib_search: false
+bib_search: true
 
 # Dimensions
 max_width: 930px
