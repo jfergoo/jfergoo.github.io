@@ -37,20 +37,20 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
-/* Target both desktop nav-links and mobile dropdown-items */
-.navbar-nav .nav-link, 
-.navbar-nav .nav-link:visited,
-.navbar-nav .dropdown-item,
-.navbar-nav .dropdown-item:visited {
-  color: var(--global-header-text-color, var(--global-text-color)) !important;
-  opacity: 0.6;
+/* This forces every link inside the navigation bar to ignore the purple visited color */
+.navbar a, 
+.navbar a:visited, 
+.navbar a:hover, 
+.navbar a:active,
+.navbar-nav .nav-link,
+.navbar-nav .nav-link:visited {
+  color: var(--global-header-text-color, #000000) !important;
   text-decoration: none !important;
 }
 
-/* Ensure hover and active states stay consistent */
-.navbar-nav .nav-link:hover, 
-.navbar-nav .dropdown-item:hover,
-.navbar-nav .nav-item.active .nav-link {
-  opacity: 1;
+/* Keeps the "Active" or hovered link highlighted */
+.navbar-nav .nav-item.active a,
+.navbar a:hover {
   color: var(--global-theme-color) !important;
+  opacity: 1 !important;
 }
