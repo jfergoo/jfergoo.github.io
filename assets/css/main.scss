@@ -37,3 +37,13 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+/* Force header links to use the theme's text color and ignore 'visited' purple */
+.navbar-nav .nav-link, 
+.navbar-nav .nav-link:visited {
+  color: var(--global-header-text-color, var(--global-text-color)) !important;
+}
+
+/* Ensure the hover effect still works */
+.navbar-nav .nav-link:hover {
+  color: var(--global-theme-color) !important;
+}
