@@ -7,7 +7,7 @@ nav_order: 5
 show_title: false 
 ---
 <br>
-<p><font style="color: rgb(153,0,76)">Research</font></p>
+<p><font style="color: rgb(147,112,219)">Research</font></p>
 
 - Post-doctoral fellow (2022 - 2025)<br>
    *Institute of Science and Technology, Austria (ISTA)*
@@ -22,7 +22,7 @@ show_title: false
    *JASCO Applied Sciences, Canada*
    
 <br>
-<p><font style="color: rgb(153,0,76)">Education</font></p>
+<p><font style="color: rgb(147,112,219)">Education</font></p>
 
 - Ph.D. in Earth System Science (2022) <br>*University of Zurich, Switzerland*<br>
 
