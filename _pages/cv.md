@@ -25,7 +25,7 @@ nav_order: 5
 
 - Ph.D. in Earth System Science (2022) <br>*University of Zurich, Switzerland*<br>
 
-- M.Sc. in Mathematics (2008)<br>༶ *University of Victoria, Canada*<br>
+- M.Sc. in Mathematics (2008)<br>*University of Victoria, Canada*<br>
 
 - B.Sc. (Hon.) in Mathematics (2004)<br>
   *University of Victoria, Canada*
