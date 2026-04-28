@@ -18,7 +18,7 @@ F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered g
 [ [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5997/egusphere-2025-5997.pdf) ]
 
 <b>J.C. Ferguson</b> and A. Vieli. “*Modelling steady states and the transient response of debris-covered glaciers*”, The Cryosphere (2021)<br>
-[ [journal](https://tc.copernicus.org/articles/15/3377/2021/tc-15-3377-2021.pdf) ]
+[ [journal](https://tc.copernicus.org/articles/15/3377/2021/tc-15-3377-2021.pdf) ] [ [GitHub](https://github.com/jfergoo/DebrisCoveredGlaciers) ]
 
 N. Mölg, <b>J. Ferguson</b>, T. Bolch, and A. Vieli. “*On the influence of debris cover on glacier morphology: How high-relief structures evolve from smooth surfaces*”, Geomorphology (2020)<br>
 [ [journal](https://doi.org/10.1016/j.geomorph.2020.107092) ]
@@ -26,7 +26,7 @@ N. Mölg, <b>J. Ferguson</b>, T. Bolch, and A. Vieli. “*On the influence of de
 <b>J. Ferguson</b>, B. Khouider, and M. Namazi. “*Two-way interactions between equatorially-trapped waves and the barotropic flow*”, Chinese Annals of Mathematics (2009)<br>
 [ [journal](https://doi.org/10.1007/s11401-009-0102-9) ] 
 
-<b>J. Ferguson</b>. “*A brief survey of the history of the calculus of variations and its a	pplications*”, arXiv (2004)<br>
+<b>J. Ferguson</b>. “*A brief survey of the history of the calculus of variations and its applications*”, arXiv (2004)<br>
 [ [arXiv](https://arxiv.org/pdf/math.HO/0402357) ]
 
 
