@@ -1,0 +1,8 @@
+---
+layout: page
+permanent: cv
+title: CV
+nav: true
+nav_order: 5
+---
+<h1>Test: My CV is working!</h1>
