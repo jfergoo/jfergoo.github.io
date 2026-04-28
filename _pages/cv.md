@@ -23,7 +23,7 @@ nav_order: 5
 <br>
 <p><font style="color: rgb(153,0,76)">Education</font></p>
 
-- PhD in Earth System Science (2022) <br>*University of Zurich, Switzerland*<br>
+- Ph.D. in Earth System Science (2022) <br>*University of Zurich, Switzerland*<br>
 
 - M.Sc. in Mathematics (2008)<br>༶ *University of Victoria, Canada*<br>
 
