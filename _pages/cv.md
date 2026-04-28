@@ -14,7 +14,7 @@ nav_order: 5
 - Research engineer (2016 - 2017)<br>
    *French Space Agency (CNES), University of Toulouse, France*
 
-- Sessional instructor and researcher (2011 - 2015)<br>
+- Research assistant and sessional instructor (2011 - 2015)<br>
    *University of British Columbia, Canada* 
 
 - Project scientist (2009 - 2010)<br>
