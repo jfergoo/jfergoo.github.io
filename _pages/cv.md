@@ -4,6 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
+show_title: false 
 ---
 <br>
 <p><font style="color: rgb(153,0,76)">Research</font></p>
