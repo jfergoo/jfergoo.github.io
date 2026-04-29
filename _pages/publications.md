@@ -8,7 +8,7 @@ nav_order: 2
 
 <br>
 
-For an updated list of publications, see also my [Google Scholar](https://scholar.google.com/citations?user=wrG4kn4AAAAJ) page
+For an updated list of publications, check my [Google Scholar](https://scholar.google.com/citations?user=wrG4kn4AAAAJ) page
 
 <br>
 
