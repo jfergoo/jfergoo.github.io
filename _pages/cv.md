@@ -7,7 +7,10 @@ nav_order: 5
 show_title: false 
 ---
 <br>
-<p><font style="color: rgb(181, 9, 172)">Research</font></p>
+<p><font style="color: rgb(181, 9, 172)">Experience</font></p>
+
+- Visiting lecturer (2026)<br>
+   *African Institute for Mathematical Sciences (AIMS), South Africa*
 
 - Post-doctoral fellow (2022 - 2025)<br>
    *Institute of Science and Technology, Austria (ISTA)*
