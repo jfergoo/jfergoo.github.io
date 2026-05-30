@@ -12,10 +12,18 @@ For an updated list of publications, check my [Google Scholar](https://scholar.g
 
 <br>
 
-**Publications**
+**Forthcoming and in preparation**
 
 F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered glacier dynamics: transient response to changes and feedbacks in debris and climate forcing*”, The Cryosphere (2026)<br>
 [ [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5997/egusphere-2025-5997.pdf) ]
+
+<b>J.C. Ferguson</b>. “*Gradient-free construction of transiently amplifying networks under hard connectivity constraints*”. Under review. 
+
+I. Bulygin, <b>J.C. Ferguson</b>, N. Condruz, and T.P. Vogels. "*Synaptic modulation outperforms somatic modulation for rapid adaptation in cortical networks*". In preparation.
+
+<br>
+
+**Published**
 
 <b>J.C. Ferguson</b> and A. Vieli. “*Modelling steady states and the transient response of debris-covered glaciers*”, The Cryosphere (2021)<br>
 [ [journal](https://tc.copernicus.org/articles/15/3377/2021/tc-15-3377-2021.pdf) ] [ [GitHub](https://github.com/jfergoo/DebrisCoveredGlaciers) ]
@@ -23,12 +31,15 @@ F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered g
 N. Mölg, <b>J. Ferguson</b>, T. Bolch, and A. Vieli. “*On the influence of debris cover on glacier morphology: How high-relief structures evolve from smooth surfaces*”, Geomorphology (2020)<br>
 [ [journal](https://doi.org/10.1016/j.geomorph.2020.107092) ]
 
+<br>
+
+**Earlier work**
+
 <b>J. Ferguson</b>, B. Khouider, and M. Namazi. “*Two-way interactions between equatorially-trapped waves and the barotropic flow*”, Chinese Annals of Mathematics (2009)<br>
 [ [journal](https://doi.org/10.1007/s11401-009-0102-9) ] 
 
 <b>J. Ferguson</b>. “*A brief survey of the history of the calculus of variations and its applications*”, arXiv (2004)<br>
 [ [arXiv](https://arxiv.org/pdf/math.HO/0402357) ]
-
 
 <br>
 
