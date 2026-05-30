@@ -10,23 +10,23 @@ show_title: false
 <p><font style="color: rgb(181, 9, 172)">Experience</font></p>
 
 - Visiting lecturer (2026)<br>
-   *African Institute for Mathematical Sciences (AIMS), South Africa*
+   *African Institute for Mathematical Sciences (AIMS), South Africa*<br>
    Taught the computational neuroscience part of a graduate course in Neuro AI
 
 - Post-doctoral fellow (2022 - 2025)<br>
-   *Institute of Science and Technology, Austria (ISTA)*
+   *Institute of Science and Technology, Austria (ISTA)*<br>
    Researched connectome-dynamics relationships as member of the Vogels Lab
 
 - Research engineer (2016 - 2017)<br>
-   *French Space Agency (CNES), University of Toulouse, France*
+   *French Space Agency (CNES), University of Toulouse, France*<br>
    Inverse modelling of satellite observations of the Greenland Ice Sheet to infer subglacial drainage properties
 
 - Research assistant and sessional instructor (2011 - 2015)<br>
-   *University of British Columbia, Canada*
+   *University of British Columbia, Canada*<br>
    Researched subglacial drainage models and taught undergraduate geoscience and applied math courses
 
 - Project scientist (2009 - 2010)<br>
-   *JASCO Applied Sciences, Canada*
+   *JASCO Applied Sciences, Canada*<br>
    Developed computational models for ocean acoustic wave propagation
    
 <br>
