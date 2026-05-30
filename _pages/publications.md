@@ -14,7 +14,7 @@ For an updated list of publications, check my [Google Scholar](https://scholar.g
 
 **Forthcoming and in preparation**
 
-F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered glacier dynamics: transient response to changes and feedbacks in debris and climate forcing*”, The Cryosphere (2026)<br>
+F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered glacier dynamics: transient response to changes and feedbacks in debris and climate forcing*”. Under review at the The Cryosphere.<br>
 [ [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5997/egusphere-2025-5997.pdf) ]
 
 <b>J.C. Ferguson</b>. “*Gradient-free construction of transiently amplifying networks under hard connectivity constraints*”. Under review. 
