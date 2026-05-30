@@ -35,4 +35,6 @@ show_title: false
   *University of Victoria, Canada*
 
 <br>
+<p><font style="color: rgb(181, 9, 172)">Methods and skills</font></p>
 
+- Numerical PDEs, dynamical systems and network analysis, scientific computing in Python and Matlab, inverse problems, computational neuroscience pipelines.
