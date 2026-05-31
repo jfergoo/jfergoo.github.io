@@ -32,9 +32,9 @@ show_title: false
 <br>
 <p><font style="color: rgb(181, 9, 172)">Education</font></p>
 
-- Ph.D. in Earth System Science (2022) <br>*University of Zürich, Switzerland*<br>
+- Ph.D. in Earth System Science (2022) <br>*University of Zürich, Switzerland* <br>Supervisor: Andreas Vieli<br>
 
-- M.Sc. in Mathematics (2008)<br>*University of Victoria, Canada*<br>
+- M.Sc. in Mathematics (2008)<br>*University of Victoria, Canada* <br>Supervisor: Boualem Khouider<br>
 
 - B.Sc. (Hon.) in Mathematics (2004)<br>
   *University of Victoria, Canada*
