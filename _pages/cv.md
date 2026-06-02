@@ -25,6 +25,10 @@ show_title: false
    *University of British Columbia, Canada*<br>
    Researched subglacial drainage models and taught undergraduate geoscience and applied math courses
 
+- Tutor (2010 - 2011)<br>
+   *African Institute for Mathematical Sciences (AIMS), South Africa*<br>
+   Tutored graduate students in mathematical and computational methods in the AIMS stuctured master's program
+
 - Project scientist (2009 - 2010)<br>
    *JASCO Applied Sciences, Canada*<br>
    Developed computational models for ocean acoustic wave propagation
