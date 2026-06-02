@@ -17,7 +17,8 @@ For an updated list of publications, check my [Google Scholar](https://scholar.g
 F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered glacier dynamics: transient response to changes and feedbacks in debris and climate forcing*”. Under review at the The Cryosphere.<br>
 [ [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5997/egusphere-2025-5997.pdf) ]
 
-<b>J.C. Ferguson</b>. “*Gradient-free construction of transiently amplifying networks under hard connectivity constraints*”. Under review. 
+<b>J.C. Ferguson</b>. “*DAGGER: Gradient-free construction of transiently amplifying networks under hard connectivity constraints*”. Under review.<br>
+[ [preprint](https://arxiv.org/pdf/2606.01227) ]
 
 I. Bulygin, <b>J.C. Ferguson</b>, N. Condruz, and T.P. Vogels. "*Synaptic modulation outperforms somatic modulation for rapid adaptation in cortical networks*". In preparation.
 
