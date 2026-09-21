@@ -24,7 +24,7 @@ I. Bulygin, <b>J.C. Ferguson</b>, N. Condruz, and T.P. Vogels. "*Synaptic modula
 **Published**
 
 F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Feedbacks and timescales in the modelled transient response of debris-covered glaciers*”, The Cryosphere (2026)<br>
-[ [journal](https://tc.copernicus.org/articles/20/5365/2026/tc-20-5365-2026.pdf) ]
+[ [journal](https://tc.copernicus.org/articles/20/5365/2026/tc-20-5365-2026.pdf) ] [ [code](https://doi.org/10.5281/zenodo.22687410) ]
 
 <b>J.C. Ferguson</b> and A. Vieli. “*Modelling steady states and the transient response of debris-covered glaciers*”, The Cryosphere (2021)<br>
 [ [journal](https://tc.copernicus.org/articles/15/3377/2021/tc-15-3377-2021.pdf) ] [ [GitHub](https://github.com/jfergoo/DebrisCoveredGlaciers) ]
