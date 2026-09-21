@@ -14,9 +14,6 @@ For an updated list of publications, check my [Google Scholar](https://scholar.g
 
 **Forthcoming and in preparation**
 
-F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Modelling debris-covered glacier dynamics: transient response to changes and feedbacks in debris and climate forcing*”. Under review at the The Cryosphere.<br>
-[ [preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5997/egusphere-2025-5997.pdf) ]
-
 <b>J.C. Ferguson</b>. “*DAGGER: Gradient-free construction of transiently amplifying networks under hard connectivity constraints*”. Under review.<br>
 [ [preprint](https://arxiv.org/pdf/2606.01227) ]
 
@@ -25,6 +22,9 @@ I. Bulygin, <b>J.C. Ferguson</b>, N. Condruz, and T.P. Vogels. "*Synaptic modula
 <br>
 
 **Published**
+
+F. Hardmeier, <b>J.C. Ferguson</b>, and A. Vieli. “*Feedbacks and timescales in the modelled transient response of debris-covered glaciers*”, The Cryosphere (2026)<br>
+[ [journal](https://tc.copernicus.org/articles/20/5365/2026/tc-20-5365-2026.pdf) ]
 
 <b>J.C. Ferguson</b> and A. Vieli. “*Modelling steady states and the transient response of debris-covered glaciers*”, The Cryosphere (2021)<br>
 [ [journal](https://tc.copernicus.org/articles/15/3377/2021/tc-15-3377-2021.pdf) ] [ [GitHub](https://github.com/jfergoo/DebrisCoveredGlaciers) ]
