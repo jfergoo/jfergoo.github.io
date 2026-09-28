@@ -17,7 +17,7 @@ For an updated list of publications, check my [Google Scholar](https://scholar.g
 <b>J.C. Ferguson</b>. “*DAGGER: Gradient-free construction of transiently amplifying networks under hard connectivity constraints*”. Under review.<br>
 [ [preprint](https://arxiv.org/pdf/2606.01227) ]
 
-I. Bulygin, <b>J.C. Ferguson</b>, N. Condruz, and T.P. Vogels. "*Synaptic modulation outperforms somatic modulation for rapid adaptation in cortical networks*". In preparation.
+I. Bulygin, N. Condruz, <b>J.C. Ferguson</b>, and T.P. Vogels. "*Synaptic neuromodulation permits accurate low-dimensional control over neural dynamics that is unattainable by somatic modulation*". Under review.
 
 <br>
 
